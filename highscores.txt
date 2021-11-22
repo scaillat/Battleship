@@ -1,0 +1,10 @@
+Username,High Score
+Ghost#9159,4000
+Apple#3888,2700
+Hywel#5151,2000
+Apple#4789,1900
+Ghost#6575,1350
+Bob#8528,1300
+Captain#5262,1000
+Bob#5464,50
+Adam#5464,15
